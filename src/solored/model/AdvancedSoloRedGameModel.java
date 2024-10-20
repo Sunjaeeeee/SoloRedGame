@@ -1,11 +1,7 @@
-package cs3500.solored.model;
+package solored.model;
 
 import java.util.List;
 import java.util.Random;
-
-import cs3500.solored.model.RedGameCard;
-import cs3500.solored.model.RedGameModel;
-import cs3500.solored.model.SoloRedGameModel;
 
 /**
  * Represents an advanced version of the Solo Red Game Model which extends the

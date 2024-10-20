@@ -1,10 +1,10 @@
-package cs3500.solored.view;
+package solored.view;
 
 import java.io.IOException;
 import java.util.List;
 
-import cs3500.solored.model.RedGameCard;
-import cs3500.solored.model.RedGameModel;
+import solored.model.RedGameCard;
+import solored.model.RedGameModel;
 
 /**
  * A text based view for the Solo Red Game. This view displays the game state

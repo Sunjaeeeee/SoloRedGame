@@ -1,14 +1,14 @@
-package cs3500.solored;
+package solored;
 
 import java.io.InputStreamReader;
 
-import cs3500.solored.controller.RedGameController;
-import cs3500.solored.controller.SoloRedTextController;
-import cs3500.solored.model.RedGameCard;
-import cs3500.solored.model.RedGameModel;
-import cs3500.solored.model.RedGameCreator;
+import solored.controller.RedGameController;
+import solored.controller.SoloRedTextController;
+import solored.model.RedGameCard;
+import solored.model.RedGameModel;
+import solored.model.RedGameCreator;
 
-import static cs3500.solored.model.RedGameCreator.createGame;
+import static solored.model.RedGameCreator.createGame;
 
 /**
  * The {@code SoloRed} class is the entry point for the Solo Red card game application.

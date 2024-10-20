@@ -1,4 +1,4 @@
-package cs3500.solored.model;
+package solored.model;
 
 /**
  * Represents a card in the RedSoloGame.

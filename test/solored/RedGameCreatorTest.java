@@ -1,13 +1,13 @@
-package cs3500.solored;
+package solored;
 
 import org.junit.Test;
 
-import cs3500.solored.model.RedGameModel;
-import cs3500.solored.model.SoloRedGameModel;
-import cs3500.solored.model.AdvancedSoloRedGameModel;
-import cs3500.solored.model.RedGameCreator;
+import solored.model.RedGameModel;
+import solored.model.SoloRedGameModel;
+import solored.model.AdvancedSoloRedGameModel;
+import solored.model.RedGameCreator;
 
-import static cs3500.solored.model.RedGameCreator.createGame;
+import static solored.model.RedGameCreator.createGame;
 import static org.junit.Assert.assertTrue;
 
 /**

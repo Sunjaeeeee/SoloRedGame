@@ -1,4 +1,4 @@
-package cs3500.solored;
+package solored;
 
 import org.junit.Before;
 import org.junit.Ignore;
@@ -7,11 +7,11 @@ import org.junit.Test;
 import java.util.ArrayList;
 import java.util.List;
 
-import cs3500.solored.model.Color;
-import cs3500.solored.model.Number;
-import cs3500.solored.model.Palette;
-import cs3500.solored.model.RedGameCard;
-import cs3500.solored.model.AdvancedSoloRedGameModel;
+import solored.model.Color;
+import solored.model.Number;
+import solored.model.Palette;
+import solored.model.RedGameCard;
+import solored.model.AdvancedSoloRedGameModel;
 
 import static java.util.Arrays.asList;
 import static org.junit.Assert.assertEquals;

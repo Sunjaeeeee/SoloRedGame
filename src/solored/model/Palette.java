@@ -1,4 +1,4 @@
-package cs3500.solored.model;
+package solored.model;
 
 import java.util.ArrayList;
 import java.util.Comparator;

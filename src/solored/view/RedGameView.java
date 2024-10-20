@@ -1,4 +1,4 @@
-package cs3500.solored.view;
+package solored.view;
 
 import java.io.IOException;
 

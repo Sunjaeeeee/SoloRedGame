@@ -1,4 +1,4 @@
-package cs3500.solored;
+package solored;
 
 import org.junit.Before;
 import org.junit.Test;
@@ -10,13 +10,13 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Random;
 
-import cs3500.solored.controller.RedGameController;
-import cs3500.solored.controller.SoloRedTextController;
-import cs3500.solored.model.Color;
-import cs3500.solored.model.Number;
-import cs3500.solored.model.RedGameCard;
-import cs3500.solored.model.RedGameModel;
-import cs3500.solored.model.SoloRedGameModel;
+import solored.controller.RedGameController;
+import solored.controller.SoloRedTextController;
+import solored.model.Color;
+import solored.model.Number;
+import solored.model.RedGameCard;
+import solored.model.RedGameModel;
+import solored.model.SoloRedGameModel;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertThrows;

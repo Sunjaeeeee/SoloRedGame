@@ -1,9 +1,9 @@
-package cs3500.solored.controller;
+package solored.controller;
 
 import java.util.List;
 
-import cs3500.solored.model.Card;
-import cs3500.solored.model.RedGameModel;
+import solored.model.Card;
+import solored.model.RedGameModel;
 
 /**
  * The {@code RedGameController} interface defines the contract for controlling

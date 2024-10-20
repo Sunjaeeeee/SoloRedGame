@@ -1,4 +1,4 @@
-package cs3500.solored.model;
+package solored.model;
 
 /**
  * Enum Class representing a color on a card.

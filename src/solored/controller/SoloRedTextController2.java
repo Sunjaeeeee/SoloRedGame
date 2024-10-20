@@ -1,12 +1,12 @@
-package cs3500.solored.controller;
+package solored.controller;
 
 import java.util.List;
 import java.util.Scanner;
 
-import cs3500.solored.model.Card;
-import cs3500.solored.model.RedGameModel;
-import cs3500.solored.view.RedGameView;
-import cs3500.solored.view.SoloRedGameTextView;
+import solored.model.Card;
+import solored.model.RedGameModel;
+import solored.view.RedGameView;
+import solored.view.SoloRedGameTextView;
 
 /**
  * The {@code SoloRedTextController} class implements the {@link RedGameController} interface,
